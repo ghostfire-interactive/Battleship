@@ -2,7 +2,7 @@
 //  BattleShip.cpp                                                       //
 //  BattleShip                                                           //
 //                                                                       //
-//  Created by Anarchy on 4/5/13.                                        //
+//  Created by Tim O'Brien on 4/5/13.                                    //
 //  Copyright (c) 2013 Tim O'Brien. All rights reserved.                 //
 ///////////////////////////////////////////////////////////////////////////
  
